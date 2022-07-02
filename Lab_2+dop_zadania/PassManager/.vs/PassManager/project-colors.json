@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05d5d0fa-22f1-4a5c-89d8-ca19cc0fa4d5": {
+      "ProjectGuid": "05d5d0fa-22f1-4a5c-89d8-ca19cc0fa4d5",
+      "DisplayName": "PassManager",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
